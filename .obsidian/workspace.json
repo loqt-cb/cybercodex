@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entry Template.md",
+                "file": "Cheatsheets/Analysing Malicious Docs - SANS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Entry Template"
+              "title": "Analysing Malicious Docs - SANS"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entry Template.md",
+                "file": "Cheatsheets/Analysing Malicious Docs - SANS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entry Template.md",
+                "file": "Cheatsheets/Analysing Malicious Docs - SANS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entry Template.md",
+                "file": "Cheatsheets/Analysing Malicious Docs - SANS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,6 +191,7 @@
   "active": "33f2992a93b6fb1d",
   "lastOpenFiles": [
     "Entry Template.md",
+    "Cheatsheets/Analysing Malicious Docs - SANS.md",
     "Websites",
     "Tools/Exploitation",
     "Tools/REMA",
