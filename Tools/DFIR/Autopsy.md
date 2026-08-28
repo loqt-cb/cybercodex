@@ -6,4 +6,4 @@ Disk analyzer and artifact parser.
 Loads disk images in raw formats: .img, .dd, as well as e01. Supports some VM files such as .vmdk and .vhd
 
 ## Related
-
+[[FTKImager]]
