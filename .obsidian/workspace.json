@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheatsheets/Analysing Malicious Docs - SANS.md",
+                "file": "Tools/DFIR/Autopsy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Analysing Malicious Docs - SANS"
+              "title": "Autopsy"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cheatsheets/Analysing Malicious Docs - SANS.md",
+                "file": "Tools/DFIR/Autopsy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cheatsheets/Analysing Malicious Docs - SANS.md",
+                "file": "Tools/DFIR/Autopsy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cheatsheets/Analysing Malicious Docs - SANS.md",
+                "file": "Tools/DFIR/Autopsy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,6 +191,8 @@
   "active": "33f2992a93b6fb1d",
   "lastOpenFiles": [
     "Entry Template.md",
+    "Tools/DFIR/Autopsy.md",
+    "Websites/DFIR Cheat Sheet (Website).md",
     "Cheatsheets/Analysing Malicious Docs - SANS.md",
     "Websites",
     "Tools/Exploitation",
