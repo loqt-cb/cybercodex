@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Cryptography/Cyberchef.md",
+                "file": "Tools/DFIR/Hayabusa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cyberchef"
+              "title": "Hayabusa"
             }
           }
         ]
@@ -190,8 +190,14 @@
   },
   "active": "33f2992a93b6fb1d",
   "lastOpenFiles": [
-    "Tools/REMA/radare2.md",
+    "Tools/DFIR/FTKImager.md",
+    "Tools/DFIR/Hayabusa.md",
+    "Tools/DFIR/ntdissector.md",
+    "Tools/DFIR/Autopsy.md",
+    "Tools/OSINT/BloodHound.md",
+    "Tools/Network/Wireshark.md",
     "Tools/Cryptography/Cyberchef.md",
+    "Tools/REMA/radare2.md",
     "Tools/Web/JavaScript Unpacker.md",
     "Tools/Cryptography",
     "Tools/Web/Beautifer (Deobfuscator).md",
@@ -201,9 +207,6 @@
     "Cheatsheets/Splunk Crash Course.md",
     "Procedures/SSH Key Privilege Escalation.md",
     "Tools/Recon/nmap.md",
-    "Tools/Network/Wireshark.md",
-    "Tools/DFIR/FTKImager.md",
-    "Tools/DFIR/Autopsy.md",
     "Entry Template.md",
     "Websites",
     "Tools/Exploitation",
