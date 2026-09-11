@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/DFIR/Hayabusa.md",
+                "file": "Tools/Exploitation/Radare2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hayabusa"
+              "title": "Radare2"
             }
           }
         ]
@@ -190,13 +190,15 @@
   },
   "active": "33f2992a93b6fb1d",
   "lastOpenFiles": [
-    "Tools/DFIR/FTKImager.md",
+    "Tools/Exploitation/gdb.md",
+    "Tools/Exploitation/Radare2.md",
+    "Tools/Cryptography/Cyberchef.md",
     "Tools/DFIR/Hayabusa.md",
+    "Tools/DFIR/FTKImager.md",
     "Tools/DFIR/ntdissector.md",
     "Tools/DFIR/Autopsy.md",
     "Tools/OSINT/BloodHound.md",
     "Tools/Network/Wireshark.md",
-    "Tools/Cryptography/Cyberchef.md",
     "Tools/REMA/radare2.md",
     "Tools/Web/JavaScript Unpacker.md",
     "Tools/Cryptography",
