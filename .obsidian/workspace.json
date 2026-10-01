@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/DFIR/Oletools.md",
+                "file": "Websites/HackTricks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oletools"
+              "title": "HackTricks"
             }
           }
         ]
@@ -190,15 +190,18 @@
   },
   "active": "33f2992a93b6fb1d",
   "lastOpenFiles": [
-    "Tools/DFIR/Hexedit.md",
+    "Websites/DFIR Cheat Sheet (Website).md",
+    "Websites/HackTricks.md",
+    "Tools/DFIR/Volatility.md",
+    "Tools/DFIR/Hayabusa.md",
     "Tools/DFIR/Oletools.md",
+    "Tools/DFIR/Hexedit.md",
     "Tools/DFIR/Autopsy.md",
     "Cheatsheets/Analysing Malicious Docs - SANS.md",
     "Procedures/SSH Key Privilege Escalation.md",
     "Tools/Exploitation/Radare2.md",
     "Tools/Exploitation/gdb.md",
     "Tools/Cryptography/Cyberchef.md",
-    "Tools/DFIR/Hayabusa.md",
     "Tools/DFIR/FTKImager.md",
     "Tools/DFIR/ntdissector.md",
     "Tools/OSINT/BloodHound.md",
@@ -207,7 +210,6 @@
     "Tools/Web/JavaScript Unpacker.md",
     "Tools/Cryptography",
     "Tools/Web/Beautifer (Deobfuscator).md",
-    "Websites/DFIR Cheat Sheet (Website).md",
     "README.md",
     "Cheatsheets/Splunk Crash Course.md",
     "Tools/Recon/nmap.md",
